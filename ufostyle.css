@@ -1,0 +1,38 @@
+header img {
+    width: 960px;
+}
+
+article img {
+    width: 400px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.center {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: larger;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav ul {
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    list-style-type: none;
+
+    display: inline-block;
+    padding: 10px;
+}
